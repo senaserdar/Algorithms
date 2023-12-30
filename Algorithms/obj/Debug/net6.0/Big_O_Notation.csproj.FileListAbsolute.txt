@@ -1,0 +1,15 @@
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/bin/Debug/net6.0/Big_O_Notation
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/bin/Debug/net6.0/Big_O_Notation.deps.json
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/bin/Debug/net6.0/Big_O_Notation.runtimeconfig.json
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/bin/Debug/net6.0/Big_O_Notation.dll
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/bin/Debug/net6.0/Big_O_Notation.pdb
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.csproj.AssemblyReference.cache
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.AssemblyInfoInputs.cache
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.AssemblyInfo.cs
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.csproj.CoreCompileInputs.cache
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.dll
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/refint/Big_O_Notation.dll
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.pdb
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/Big_O_Notation.genruntimeconfig.cache
+/Users/senaserdar/RiderProjects/Big_O_Notation/Big_O_Notation/obj/Debug/net6.0/ref/Big_O_Notation.dll
