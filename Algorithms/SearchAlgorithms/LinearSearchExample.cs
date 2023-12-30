@@ -8,7 +8,7 @@ class LinearSearchExample
             if (arr[i] == target)
                 return i; // Hedeflenen eleman bulunduğunda dizinin indeksini döndürür.
         }
-
+//Algoritma karmaşıklığı O(n)'dir.
         return -1; // Hedeflenen eleman bulunamadığında -1 döndürülür.
     }
 }
